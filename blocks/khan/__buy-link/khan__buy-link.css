@@ -1,4 +1,4 @@
-.buy-link {
+.khan__buy-link {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -10,6 +10,6 @@
   transition: opacity 0.3s linear 0.05s;
 }
 
-.buy-link:hover {
+.khan__buy-link:hover {
   opacity: 0.5;
 }

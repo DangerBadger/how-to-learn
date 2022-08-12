@@ -1,6 +1,6 @@
 .cards__item {
-  width: 230px;
-  margin: 60px 100px 0 0;
+  width: 240px;              /* Напрямую ширина элемента в брифе не задана, но ширина элемнта cards__image и... */
+  margin: 60px 100px 0 0;    /* его отступы с обеих сторон позволяют вычислить ширину cards__item в 240px */
   display: flex;
   align-items: center;
   flex-direction: column;
